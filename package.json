@@ -11,7 +11,7 @@
     "@react-navigation/bottom-tabs": "^5.3.4",
     "expo": "^37.0.8",
     "expo-font": "~8.1.0",
-    "moment": "^2.25.3",
+    "moment": "^2.29.4",
     "native-base": "^2.13.12",
     "newsapi": "^2.4.0",
     "react": "~16.9.0",
